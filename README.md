@@ -1,10 +1,10 @@
 My Hyprland dots files with all the necessary configs.
 
-bar - waybar
-terminal - alacritty
-music player - spicetify
-fetcher - fastfetch
-
+bar - waybar <br>
+terminal - alacritty<br>
+music player - spicetify<br>
+fetcher - fastfetch<br>
+<br><br>
 
 
 
